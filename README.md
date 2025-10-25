@@ -9,7 +9,7 @@
 - 🎓 Estudando lógica de programação no grupo 8 da Alura/ONE.
 - 🎓 Estudando linguagem de programação C++, Curso Completo WR Kits Eng. Wagner Rambo.
 - 💼 Trabalhando como projetista de sistemas de automação industrial na Videplast.
-- 🌱 "Aprendendo mais sobre C/C++, HTML, CSS e JavaScript.
+- 💻 Aprendendo mais sobre C/C++, HTML, CSS, java,SQL e JavaScript.
 
 ## Minhas Skills
 
